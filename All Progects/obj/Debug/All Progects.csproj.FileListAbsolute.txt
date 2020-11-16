@@ -1,0 +1,15 @@
+D:\Tools\C#\All Progects\All Progects\bin\Debug\All Progects.exe.config
+D:\Tools\C#\All Progects\All Progects\bin\Debug\All Progects.exe
+D:\Tools\C#\All Progects\All Progects\bin\Debug\All Progects.pdb
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.csprojAssemblyReference.cache
+D:\Tools\C#\All Progects\All Progects\obj\Debug\MainWindow.g.cs
+D:\Tools\C#\All Progects\All Progects\obj\Debug\App.g.cs
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects_MarkupCompile.cache
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects_MarkupCompile.lref
+D:\Tools\C#\All Progects\All Progects\obj\Debug\MainWindow.baml
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.g.resources
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All_Progects.Properties.Resources.resources
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.csproj.GenerateResource.cache
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.csproj.CoreCompileInputs.cache
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.exe
+D:\Tools\C#\All Progects\All Progects\obj\Debug\All Progects.pdb
